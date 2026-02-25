@@ -15,8 +15,8 @@ These are the main technologies and tools I'm focusing on and using in my curren
 | Category | Technologies | Status |
 | :--- | :--- | :--- |
 | **Backend / Core** | Java, JavaScript | Learning & Applying |
-| **Databases** | MySQL | Database Fundamentals |
-| **Web Basics** | HTML5, CSS3, JavaScript | Practicing |
+| **Databases** | MySQL, PL/SQL | Database Fundamentals |
+| **Web Basics** | HTML5, CSS3, JavaScript | Fundamentals |
 | **Version Control** | Git, GitHub | Actively Learning Best Practices |
 
 <p align="left">
